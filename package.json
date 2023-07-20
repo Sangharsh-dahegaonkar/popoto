@@ -1,5 +1,5 @@
 {
-  "name": "popoto",
+  "name": "@sma/popoto",
   "version": "4.0.3",
   "description": "Graph based search interface for Neo4j database.",
   "keywords": [
